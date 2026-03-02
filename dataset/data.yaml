@@ -1,0 +1,12 @@
+path: D:/grape_project/dataset
+
+train: images/train
+val: images/val
+
+nc: 4
+
+names:
+  0: gray_mold
+  1: mosaic_virus_disease
+  2: powdery_mildew
+  3: ulcer_disease
